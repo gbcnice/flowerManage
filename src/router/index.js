@@ -1,0 +1,54 @@
+import {
+    ShopList,
+    ShopHot,
+    Home,
+    Login,
+    Users
+} from "@pages"
+export const layoutRouteComponent = [
+    {
+        path:"/home",
+        meta:{},
+        component:Home,
+        name:"首页",
+        key:"/home"
+    },
+    {
+        path:"/shop",
+        meta:{},
+        name:"商品管理",
+        key:"/shop",
+        children:[
+            {
+                path:"/shop/shopList",
+                name:"商品列表",
+                meta:{},
+                component:ShopList,
+                key:"/shop/shopList"
+            },
+            {
+                path:"/shop/shopHot",
+                name:"热门商品",
+                meta:{},
+                component:ShopHot,
+                key:"/shop/shopHot"
+            }
+        ]
+    },
+    {
+        path:"/users",
+        meta:{},
+        component:Users,
+        name:"用户列表",
+        key:"/users"
+    }
+]
+export const noLayoutRouteComponent = [
+    {
+        path:"/login",
+        meta:{},
+        component:Login,
+        name:"登陆",
+        key:"/login"
+    }
+]

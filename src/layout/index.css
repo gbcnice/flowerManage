@@ -1,0 +1,13 @@
+.ant-layout-sider{
+    background: #fff;
+}
+.logo{
+    height: 30px;
+    width: 120px;
+    padding: 15px 20px 10px 20px;
+    box-sizing: content-box;
+}
+.logo img{
+    width: 120px;
+    height: 30px;
+}
