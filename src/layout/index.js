@@ -24,10 +24,10 @@ const SliderTabBar = SliderEach(layoutRouteComponent)
       </div>
       <Menu
         onClick={this.handleClick}
-        style={{ width: 256 }}
         defaultSelectedKeys={['1']}
         defaultOpenKeys={['sub1']}
         mode="inline"
+        theme="dark"
         onClick={this.handleTo.bind(this)}
       >
          {SliderTabBar}

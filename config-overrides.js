@@ -13,9 +13,13 @@ module.exports = override(
     fixBabelImports('import', {        
         libraryName: 'antd',        
         libraryDirectory: 'es',       
-        style: 'css'
+        style: 'css',
+        style:true
     }),
-    
+     addLessLoader({
+           javascriptEnabled: true,
+           modifyVars: { '@primary-color': '#1DA57A' },
+         }),
     //别名配置
     addWebpackAlias({        
         ["@"]: path.resolve(__dirname, "./src"),   
