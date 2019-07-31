@@ -9,3 +9,10 @@
     width: 120px;
     height: 30px;
 }
+Header{
+    display: flex;
+    justify-content: flex-end;
+}
+.ant-dropdown-link{
+    margin-right: 40px;
+}

@@ -9,6 +9,7 @@ export default (WrapperComponent)=> {
         }
         render(){
             let {token} = this.state.user
+            console.log(token)
             if(!token){
                 return <Redirect to="/login"/>
             }
