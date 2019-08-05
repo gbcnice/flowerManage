@@ -3,7 +3,8 @@ import {
     ShopHot,
     Home,
     Login,
-    Users
+    Users,
+    ShopDetail
 } from "@pages"
 export const layoutRouteComponent = [
     {
@@ -32,6 +33,13 @@ export const layoutRouteComponent = [
                 meta:{},
                 component:ShopHot,
                 key:"/shop/shopHot"
+            },
+            {
+                path:"/shop/shopDetail",
+                name:"商品详细",
+                meta:{},
+                component:ShopDetail,
+                key:"/shop/shopDetail"
             }
         ]
     },

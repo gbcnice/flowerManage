@@ -17,6 +17,10 @@ const ShopHot = Loadable({
     loader: () => import('./shop/shopHot'),
     loading: Loading,
   });
+  const ShopDetail = Loadable({
+    loader: () => import('./shop/shopDetail'),
+    loading: Loading,
+  });
 const Users = Loadable({
     loader: () => import('./users'),
     loading: Loading,
@@ -26,5 +30,6 @@ export {
     ShopHot,
     Home,
     Login,
-    Users
+    Users,
+    ShopDetail
 }

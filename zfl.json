@@ -1,0 +1,620 @@
+{
+    "hot":[
+        {
+            "banner":"https://img02.hua.com/slider/18_birthday_all_m.jpg",
+            "list":[
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_hot_cake.jpg",
+                    "text":"蛋糕",
+                    "id":1
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_hot_ppf.jpg",
+                    "text":"永生花",
+                    "id":2
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_hot_gift.jpg",
+                    "text":"特色礼品",
+                    "id":3
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_hot_you.jpg",
+                    "text":"设计师款",
+                    "id":4
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_hot_business.jpg",
+                    "text":"商务鲜花",
+                    "id":5
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_hot_chocolate.jpg",
+                    "text":"巧克力",
+                    "id":6
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_hot_groupbuy.jpg",
+                    "text":"企业团购",
+                    "id":7
+                }
+            ]
+        }
+    ],
+    "flower":[
+        {
+            "info":"用途",
+            "banner":"https://img02.hua.com/m/category/m_category_banner_flower.jpg",
+            "list":[
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_all.jpg",
+                    "text":"全部",
+                    "id":8
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_firend.jpg",
+                    "text":"友情鲜花",
+                    "id":9
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_zuhe.jpg",
+                    "text":"祝福庆贺",
+                    "id":10
+                }
+            ]
+        }
+    ],
+    "longflower":[
+        {
+            "info":"永生花",
+            "banner":"https://img02.hua.com/m/category/m_category_banner_ppf.jpg",
+            "list":[
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_all.jpg",
+                    "text":"全部",
+                    "id":11
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_firend.jpg",
+                    "text":"友情鲜花",
+                    "id":12
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_zuhe.jpg",
+                    "text":"祝福庆贺",
+                    "id":13
+                }
+            ]
+        }
+    ],
+    "cake":[
+        {
+            "info":"精选品牌蛋糕",
+            "banner":"https://img02.hua.com/m/category/m_category_banner_cake.jpg",
+            "list":[
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_all.jpg",
+                    "text":"全部",
+                    "id":14
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_firend.jpg",
+                    "text":"友情鲜花",
+                    "id":15
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_zuhe.jpg",
+                    "text":"祝福庆贺",
+                    "id":16
+                }
+            ]
+        }
+    ],
+    "chocolate":[
+        {
+            "info":"巧克力分类",
+            "banner":"https://img02.hua.com/m/category/m_category_banner_chocolate.jpg",
+            "list":[
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_all.jpg",
+                    "text":"全部",
+                    "id":17
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_firend.jpg",
+                    "text":"友情鲜花",
+                    "id":18
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_zuhe.jpg",
+                    "text":"祝福庆贺",
+                    "id":19
+                }
+            ]
+        }
+    ],
+    "gift":[
+        {
+            "info":"礼品类别",
+            "banner":"https://img02.hua.com/m/category/m_category_banner_gift.jpg",
+            "list":[
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_all.jpg",
+                    "text":"全部",
+                    "id":20
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_firend.jpg",
+                    "text":"友情鲜花",
+                    "id":21
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_zuhe.jpg",
+                    "text":"祝福庆贺",
+                    "id":22
+                }
+            ]
+        }
+    ],
+    "case":[
+        {
+            "info":"礼篮",
+            "banner":"https://img02.hua.com/m/category/m_category_banner_baseket.jpg",
+            "list":[
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_all.jpg",
+                    "text":"全部",
+                    "id":23
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_firend.jpg",
+                    "text":"友情鲜花",
+                    "id":24
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_zuhe.jpg",
+                    "text":"祝福庆贺",
+                    "id":25
+                }
+            ]
+        }
+    ],
+    "green":[
+        {
+            "info":"绿植花卉",
+            "banner":"https://img02.hua.com/m/category/m_category_banner_plant.jpg",
+            "list":[
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_all.jpg",
+                    "text":"全部",
+                    "id":26
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_firend.jpg",
+                    "text":"友情鲜花",
+                    "id":27
+                },
+                {
+                    "simg":"https://img02.hua.com/m/category/m_category_flower_use_zuhe.jpg",
+                    "text":"祝福庆贺",
+                    "id":28
+                }
+            ]
+        }
+    ],
+    "secdetail":[
+        {
+            "id":1,
+            "text":"蛋糕",
+            "fenlei":[
+                {
+                    "fl":"元祖",
+                    "id":1,
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/5302015.jpg_220x240.jpg",
+                    "Cpmc": "水果之恋(8寸)",
+                    "Instro": "元祖鲜奶蛋糕，布丁水果夹层",
+                    "ItemCode": "5302015",
+                    "LinePrice": 358,
+                    "Price": 258,
+                    "num": 100,
+                    "new":123131,
+                    "cailiao":"原味蛋胚"
+                },
+                {
+                    "fl":"窝夫小子",
+                    "id":1,
+                    "style":"畅销爆款",
+                    "url":"https://img01.hua.com/uploadpic/newpic/5302066.jpg_220x240.jpg",
+                    "Cpmc": "情有独钟(8寸)",
+                    "Instro": "元祖鲜奶蛋糕",
+                    "ItemCode": "5302066",
+                    "LinePrice": 358,
+                    "Price": 98,
+                    "num": 1999,
+                    "new":1231,
+                    "cailiao":"布丁夹层"
+
+                },
+                {
+                    "fl":"元祖",
+                    "id":1,
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/5302019.jpg_220x240.jpg",
+                    "Cpmc": "Nice兔meet you！(8寸)",
+                    "Instro": "元祖鲜奶蛋糕，布丁加水果夹层",
+                    "ItemCode": "5302019",
+                    "LinePrice": 358,
+                    "Price": 8,
+                    "num": 90,
+                    "new":135623,
+                    "cailiao":"什锦水果夹层"
+
+                },
+                {
+                    "fl":"21CAKE",
+                    "style":"",
+                    "id":1,
+                    "url":"https://img01.hua.com/uploadpic/newpic/5222025.jpg_220x240.jpg",
+                    "Cpmc": "芒果奶油蛋糕(2磅)",
+                    "Instro": "乳脂奶油蛋糕",
+                    "ItemCode": "5222025",
+                    "LinePrice": 198,
+                    "Price": 198,
+                    "num": 1100,
+                    "new":302626,
+                    "cailiao":"原味蛋胚"
+
+                } 
+            ]
+        },
+        {
+            "id":2,
+            "text":"永生花",
+            "fenlei":[
+                {
+                    "fl":"送女友",
+                    "id":2,
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073247.jpg_220x240.jpg",
+                    "Cpmc": "花好月圆永生花台灯",
+                    "Instro": "精选进口奥斯汀永生玫瑰台灯",
+                    "ItemCode": "1073247",
+                    "LinePrice": 398,
+                    "Price": 298,
+                    "num": 50,
+                    "new":126559
+                },
+                {
+                    "id":2,
+                    "fl":"送男性",
+                    "style":"畅销爆款",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073186.jpg_220x240.jpg",
+                    "Cpmc": "我如此爱你-口红款520",
+                    "Instro": "Dior#520口红(专柜正品)＋进口永生玫瑰礼盒",
+                    "ItemCode": "1073186",
+                    "LinePrice": 788,
+                    "Price": 588,
+                    "num": 6110,
+                    "new":65233
+                },
+                {
+                    "id":2,
+                    "fl":"送朋友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073253.jpg_220x240.jpg",
+                    "Cpmc": "花漾年华-迪奥香水款30ml",
+                    "Instro": "Miss Dior花漾淡香氛",
+                    "ItemCode": "1073253",
+                    "LinePrice": 899,
+                    "Price": 799,
+                    "num": 660,
+                    "new":123
+                },
+                {
+                    "id":2,
+                    "fl":"送长辈",
+                    "style":"",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073092.jpg_220x240.jpg",
+                    "Cpmc": "恋心",
+                    "Instro": "蓝色永生玫瑰＋紫色永生玫瑰",
+                    "ItemCode": "1073092",
+                    "LinePrice": 448,
+                    "Price": 288,
+                    "num": 99,
+                    "new":1231312
+                } 
+            ]
+        },
+        {
+            "id":3,
+            "text":"特色产品",
+            "fenlei":[
+                {
+                    "id":3,
+                    "fl":"送女友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073247.jpg_220x240.jpg",
+                    "Cpmc": "花好月圆永生花台灯",
+                    "Instro": "精选进口奥斯汀永生玫瑰台灯",
+                    "ItemCode": "1073247",
+                    "LinePrice": 398,
+                    "Price": 298,
+                    "num": 1004,
+                    "new":123
+                },
+                {
+                    "id":3,
+                    "fl":"送男性",
+                    "style":"畅销爆款",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073186.jpg_220x240.jpg",
+                    "Cpmc": "我如此爱你-口红款520",
+                    "Instro": "Dior#520口红(专柜正品)＋进口永生玫瑰礼盒",
+                    "ItemCode": "1073186",
+                    "LinePrice": 788,
+                    "Price": 588,
+                    "num": 105,
+                    "new":1236213
+                },
+                {
+                    "id":3,
+                    "fl":"送朋友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073253.jpg_220x240.jpg",
+                    "Cpmc": "花漾年华-迪奥香水款30ml",
+                    "Instro": "Miss Dior花漾淡香氛",
+                    "ItemCode": "1073253",
+                    "LinePrice": 899,
+                    "Price": 799,
+                    "num": 1006,
+                    "new":952623  
+                },
+                {
+                    "id":3,
+                    "fl":"送长辈",
+                    "style":"",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073092.jpg_220x240.jpg",
+                    "Cpmc": "恋心",
+                    "Instro": "蓝色永生玫瑰＋紫色永生玫瑰",
+                    "ItemCode": "1073092",
+                    "LinePrice": 448,
+                    "Price": 288,
+                    "num": 102,
+                    "new":122111
+                } 
+            ]
+        },
+        {
+            "id":4,
+            "text":"设计师款",
+            "fenlei":[
+                {
+                    "id":4,
+                    "fl":"送女友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073247.jpg_220x240.jpg",
+                    "Cpmc": "花好月圆永生花台灯",
+                    "Instro": "精选进口奥斯汀永生玫瑰台灯",
+                    "ItemCode": "1073247",
+                    "LinePrice": 398,
+                    "Price": 298,
+                    "num": 1004,
+                    "new":123
+                },
+                {
+                    "id":4,
+                    "fl":"送男性",
+                    "style":"畅销爆款",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073186.jpg_220x240.jpg",
+                    "Cpmc": "我如此爱你-口红款520",
+                    "Instro": "Dior#520口红(专柜正品)＋进口永生玫瑰礼盒",
+                    "ItemCode": "1073186",
+                    "LinePrice": 788,
+                    "Price": 588,
+                    "num": 105,
+                    "new":1236213
+                },
+                {
+                    "id":4,
+                    "fl":"送朋友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073253.jpg_220x240.jpg",
+                    "Cpmc": "花漾年华-迪奥香水款30ml",
+                    "Instro": "Miss Dior花漾淡香氛",
+                    "ItemCode": "1073253",
+                    "LinePrice": 899,
+                    "Price": 799,
+                    "num": 1006,
+                    "new":952623  
+                },
+                {
+                    "id":4,
+                    "fl":"送长辈",
+                    "style":"",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073092.jpg_220x240.jpg",
+                    "Cpmc": "恋心",
+                    "Instro": "蓝色永生玫瑰＋紫色永生玫瑰",
+                    "ItemCode": "1073092",
+                    "LinePrice": 448,
+                    "Price": 288,
+                    "num": 102,
+                    "new":122111
+                } 
+            ]
+        },
+        {
+            "id":5,
+            "text":"商务鲜花",
+            "fenlei":[
+                {
+                    "id":5,
+                    "fl":"送女友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073247.jpg_220x240.jpg",
+                    "Cpmc": "花好月圆永生花台灯",
+                    "Instro": "精选进口奥斯汀永生玫瑰台灯",
+                    "ItemCode": "1073247",
+                    "LinePrice": 398,
+                    "Price": 298,
+                    "num": 1004,
+                    "new":123
+                },
+                {
+                    "id":5,
+                    "fl":"送男性",
+                    "style":"畅销爆款",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073186.jpg_220x240.jpg",
+                    "Cpmc": "我如此爱你-口红款520",
+                    "Instro": "Dior#520口红(专柜正品)＋进口永生玫瑰礼盒",
+                    "ItemCode": "1073186",
+                    "LinePrice": 788,
+                    "Price": 588,
+                    "num": 105,
+                    "new":1236213
+                },
+                {
+                    "id":5,
+                    "fl":"送朋友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073253.jpg_220x240.jpg",
+                    "Cpmc": "花漾年华-迪奥香水款30ml",
+                    "Instro": "Miss Dior花漾淡香氛",
+                    "ItemCode": "1073253",
+                    "LinePrice": 899,
+                    "Price": 799,
+                    "num": 1006,
+                    "new":952623  
+                },
+                {
+                    "id":5,
+                    "fl":"送长辈",
+                    "style":"",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073092.jpg_220x240.jpg",
+                    "Cpmc": "恋心",
+                    "Instro": "蓝色永生玫瑰＋紫色永生玫瑰",
+                    "ItemCode": "1073092",
+                    "LinePrice": 448,
+                    "Price": 288,
+                    "num": 102,
+                    "new":122111
+                } 
+            ]
+        },
+        {
+            "id":6,
+            "text":"巧克力",
+            "fenlei":[
+                {
+                    "id":6,
+                    "fl":"送女友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073247.jpg_220x240.jpg",
+                    "Cpmc": "花好月圆永生花台灯",
+                    "Instro": "精选进口奥斯汀永生玫瑰台灯",
+                    "ItemCode": "1073247",
+                    "LinePrice": 398,
+                    "Price": 298,
+                    "num": 1004,
+                    "new":123
+                },
+                {
+                    "id":6,
+                    "fl":"送男性",
+                    "style":"畅销爆款",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073186.jpg_220x240.jpg",
+                    "Cpmc": "我如此爱你-口红款520",
+                    "Instro": "Dior#520口红(专柜正品)＋进口永生玫瑰礼盒",
+                    "ItemCode": "1073186",
+                    "LinePrice": 788,
+                    "Price": 588,
+                    "num": 105,
+                    "new":1236213
+                },
+                {
+                    "id":6,
+                    "fl":"送朋友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073253.jpg_220x240.jpg",
+                    "Cpmc": "花漾年华-迪奥香水款30ml",
+                    "Instro": "Miss Dior花漾淡香氛",
+                    "ItemCode": "1073253",
+                    "LinePrice": 899,
+                    "Price": 799,
+                    "num": 1006,
+                    "new":952623  
+                },
+                {
+                    "id":6,
+                    "fl":"送长辈",
+                    "style":"",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073092.jpg_220x240.jpg",
+                    "Cpmc": "恋心",
+                    "Instro": "蓝色永生玫瑰＋紫色永生玫瑰",
+                    "ItemCode": "1073092",
+                    "LinePrice": 448,
+                    "Price": 288,
+                    "num": 102,
+                    "new":122111
+                } 
+            ]
+        },
+        {
+            "id":7,
+            "text":"企业团购",
+            "fenlei":[
+                {
+                    "id":7,
+                    "fl":"送女友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073247.jpg_220x240.jpg",
+                    "Cpmc": "花好月圆永生花台灯",
+                    "Instro": "精选进口奥斯汀永生玫瑰台灯",
+                    "ItemCode": "1073247",
+                    "LinePrice": 398,
+                    "Price": 298,
+                    "num": 1004,
+                    "new":123
+                },
+                {
+                    "id":7,
+                    "fl":"送男性",
+                    "style":"畅销爆款",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073186.jpg_220x240.jpg",
+                    "Cpmc": "我如此爱你-口红款520",
+                    "Instro": "Dior#520口红(专柜正品)＋进口永生玫瑰礼盒",
+                    "ItemCode": "1073186",
+                    "LinePrice": 788,
+                    "Price": 588,
+                    "num": 105,
+                    "new":1236213
+                },
+                {
+                    "id":7,
+                    "fl":"送朋友",
+                    "style":"生日推荐",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073253.jpg_220x240.jpg",
+                    "Cpmc": "花漾年华-迪奥香水款30ml",
+                    "Instro": "Miss Dior花漾淡香氛",
+                    "ItemCode": "1073253",
+                    "LinePrice": 899,
+                    "Price": 799,
+                    "num": 1006,
+                    "new":952623  
+                },
+                {
+                    "id":7,
+                    "fl":"送长辈",
+                    "style":"",
+                    "url":"https://img01.hua.com/uploadpic/newpic/1073092.jpg_220x240.jpg",
+                    "Cpmc": "恋心",
+                    "Instro": "蓝色永生玫瑰＋紫色永生玫瑰",
+                    "ItemCode": "1073092",
+                    "LinePrice": 448,
+                    "Price": 288,
+                    "num": 102,
+                    "new":122111
+                } 
+            ]
+        }
+    ]
+}
